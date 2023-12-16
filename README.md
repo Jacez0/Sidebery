@@ -6,6 +6,8 @@ Sidebery Setting:<br>
 
 Extensions:<br>
   Ublock Origin<br>
+    Filter lists/ Privacy/ AdGuard URL Tracking Protection/ True<br>
+    Import/ https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt <br>
   SponsorBlock for Youtube<br>
   Video Speed Controller<br>
   Simple Translate<br>
