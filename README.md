@@ -2,6 +2,7 @@ Sidebery Setting:<br>
   Navigation Bar/ Layout/ hidden<br>
   Tabs/ Pinned Tabs/ Pinned tabs position/ in panel- top<br>
   Tabs/ Pinned Tabs/ Show titles of pinned tabs/ On<br>
+  Tabs/ Tab Tree/ Auto expand tab on Activation/ True <br>
   Appearance/ Density/ Default<br>
 
 Extensions:<br>
