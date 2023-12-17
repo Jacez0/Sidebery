@@ -2,8 +2,8 @@
 
 /* ~~~~~~~~ Autohiding styles ~~~~~~~~~ */
 :root {
- --sidebar-hover-width: 36px;
- --sidebar-visible-width: 200px;
+ --sidebar-hover-width: 38px;
+ --sidebar-visible-width: 225px;
  --sidebar-debounce-delay: 0ms;
  
 }
