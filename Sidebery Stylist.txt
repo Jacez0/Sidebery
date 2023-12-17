@@ -41,7 +41,7 @@
 /* Background layer */
  
 .Tab {
-  margin: 0 4px;
+  margin: 0 0px;
   width: unset;
 }
 .Tab .lvl-wrapper:after {
