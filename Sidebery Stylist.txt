@@ -117,3 +117,31 @@
 .Tab .t-box {
   margin-bottom: -2px;
 }
+
+
+#root.root {
+  /* Background color of colorized tabs. */
+  --tabs-colorized-bg: hsl(0 0% 85%);
+
+  /* Foreground color of colorized tabs. */
+  --tabs-colorized-fg: black;
+
+  /* Background color of all activated tabs. */
+  --tabs-activated-bg: hsl(0 0% 30%);
+
+  /* Foreground color of all activated tabs. */
+  --tabs-activated-fg: white;
+}
+
+/* Strength of colored tabs background (0-1). */
+.Tab .color-layer {
+  opacity: 0.4;
+}
+
+/* Apply custom colors to the colored tabs. */
+.Tab[data-colorized="true"] {
+  --tabs-normal-bg: var(--tabs-colorized-bg);
+  --tabs-normal-fg: var(--tabs-colorized-fg);
+  --frame-el-overlay-hover-bg: color-mix(in srgb, var(--tabs-normal-fg) 10%, transparent);
+  --frame-el-overlay-clicked-bg: color-mix(in srgb, var(--tabs-normal-fg) 20%, transparent);
+}
