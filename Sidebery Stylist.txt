@@ -1,3 +1,8 @@
+#root.root {--tabs-activated-fg: rgb(0, 0, 0);}
+#root.root {--tabs-activated-bg: rgb(254, 254, 254);}
+#root.root {--tabs-border-radius: 20px;}
+
+
 #root {
   --tabs-font: 10pt Segoe UI;
   --tabs-count-font: .625rem Segoe UI;
@@ -35,7 +40,7 @@
  */ 
  
 #root {
-  --tabs-height: 30px;
+  --tabs-height: 32px;
 }
  
 /* Background layer */
