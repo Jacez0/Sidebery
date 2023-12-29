@@ -35,7 +35,7 @@
  */ 
  
 #root {
-  --tabs-height: 32px;
+  --tabs-height: 30px;
 }
  
 /* Background layer */
@@ -121,7 +121,7 @@
 
 #root.root {
   /* Background color of colorized tabs. */
-  --tabs-colorized-bg: hsl(0 0% 85%);
+  --tabs-colorized-bg: hsl(0 0% 100%);
 
   /* Foreground color of colorized tabs. */
   --tabs-colorized-fg: black;
