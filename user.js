@@ -263,6 +263,8 @@ user_pref("identity.fxaccounts.enabled", true);
 user_pref("permissions.default.geo", 0);
 //disable popped up menu from the ALT key
 user_pref("ui.key.menuAccessKeyFocuses", false);
+//unload pin tabs (favicon not dimmed)
+user_pref("browser.sessionstore.restore_pinned_tabs_on_demand", true);
 
 /****************************************************************************
  * END: BETTERFOX                                                           *
