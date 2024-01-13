@@ -19,9 +19,9 @@
 #sidebar {
  height: 100% !important;
  width: var(--sidebar-hover-width) !important;
- z-index: 200 !important;
+ z-index: 2000 !important;
  position: absolute !important;
- transition: width 150ms var(--sidebar-debounce-delay) ease !important;
+ transition: width 100ms var(--sidebar-debounce-delay) ease !important;
  min-width: 0 !important;
 }
 #sidebar:hover {
