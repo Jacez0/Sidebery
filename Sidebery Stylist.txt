@@ -36,7 +36,7 @@
  */ 
  
 #root {
-  --tabs-height: 32px;
+  --tabs-height: 30px;
 }
  
 /* Background layer */
@@ -136,7 +136,7 @@
 
 /* Strength of colored tabs background (0-1). */
 .Tab .color-layer {
-  opacity: 0.4;
+  opacity: 0.5;
 }
 
 /* Apply custom colors to the colored tabs. */
