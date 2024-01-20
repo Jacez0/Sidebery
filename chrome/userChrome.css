@@ -67,3 +67,17 @@
 /* Change urlbar location from left align*/
 #urlbar-container {
     margin-left: 40px !important;
+
+/* Change URL Bar background color */
+@media (prefers-color-scheme: dark) {
+  #urlbar-background {
+    background-color: #2a2a2a !important;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+#urlbar-results > *[selected=""]  {
+  background-color: #424242 !important;
+}
+}
+
