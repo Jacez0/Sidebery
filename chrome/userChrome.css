@@ -82,3 +82,8 @@
   background-color: #424242 !important;
 }
 }
+
+/* Fonts */
+* {
+  font-family: monospace !important;
+}
