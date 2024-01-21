@@ -2,7 +2,7 @@
 
 /* ~~~~~~~~ Autohiding styles ~~~~~~~~~ */
 :root {
- --sidebar-hover-width: 32px;
+ --sidebar-hover-width: 36px;
  --sidebar-visible-width: 225px;
  --sidebar-debounce-delay: 0ms;
  
@@ -80,4 +80,5 @@
   background-color: #424242 !important;
 }
 }
+
 
