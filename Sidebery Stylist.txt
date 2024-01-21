@@ -1,4 +1,8 @@
 #root.root {--tabs-audio-btn-width: 6px;}
+
+/* Adjust tab icon left indent */
+#root.root {--tabs-inner-gap: 8px;}
+
 #root {
   --tabs-font: 10pt Segoe UI;
   --tabs-count-font: .625rem Segoe UI;
@@ -36,7 +40,7 @@
  */ 
  
 #root {
-  --tabs-height: 30px;
+  --tabs-height: 32px;
 }
  
 /* Background layer */
