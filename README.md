@@ -4,7 +4,7 @@ Sidebery Setting:<br>
   - Tabs/ Pinned Tabs/ Show titles of pinned tabs/ On<br>
   - Tabs/ Tab Tree/ Auto expand tab on Activation/ True <br>
   - Appearance/ Density/ Default<br> 
-  -Navigation Bar/ Bottom bar of tab panel/ off <br>
+  - Navigation Bar/ Bottom bar of tab panel/ off <br>
 
 Extensions:<br>
   - Ublock Origin<br>
