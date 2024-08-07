@@ -70,7 +70,7 @@ user_pref("network.predictor.enable-prefetch", false);
  * SECTION: SECUREFOX                                                       *
 ****************************************************************************/
 /** TRACKING PROTECTION ***/
-user_pref("browser.contentblocking.category", "standard");
+user_pref("browser.contentblocking.category", "strict");
 user_pref("urlclassifier.trackingSkipURLs", "*.reddit.com, *.twitter.com, *.twimg.com, *.tiktok.com");
 user_pref("urlclassifier.features.socialtracking.skipURLs", "*.instagram.com, *.twitter.com, *.twimg.com");
 user_pref("browser.uitour.enabled", false);
@@ -265,6 +265,8 @@ user_pref("permissions.default.geo", 0);
 user_pref("ui.key.menuAccessKeyFocuses", false);
 //unload pin tabs (favicon not dimmed)
 user_pref("browser.sessionstore.restore_pinned_tabs_on_demand", true);
+//show wallpaper on homepage
+user_pref("browser.newtabpage.activity-stream.newtabWallpapers.enabled", true);
 
 /****************************************************************************
  * END: BETTERFOX                                                           *
