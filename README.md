@@ -5,11 +5,12 @@ Sidebery Setting:<br>
   - Tabs/ Tab Tree/ Auto expand tab on Activation/ True <br>
   - Appearance/ Density/ Default<br> 
   - Navigation Bar/ Bottom bar of tab panel/ off <br>
+  - Keybindings/ OpenClose sidebar panel / Alt + Q <br>
+  - Keybindings/ Duplicate Tabs / Alt + K <br>
 
 Extensions:<br>
   - Ublock Origin<br>
      - Filter lists/ Privacy/ AdGuard URL Tracking Protection/ True<br>
-     - Import/ https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt <br>
   - SponsorBlock for Youtube<br>
   - Video Speed Controller<br>
   - Simple Translate<br>
